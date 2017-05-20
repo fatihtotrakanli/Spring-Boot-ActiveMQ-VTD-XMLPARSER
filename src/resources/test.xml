@@ -1,0 +1,26 @@
+<purchaseOrder orderDate="1999-10-21">
+    <item partNum="872-AA">
+        <productName>product1</productName>
+        <quantity>1</quantity>
+        <USPrice>148.95</USPrice>
+        <cargo>
+            <isOpen>false</isOpen>
+        </cargo>
+    </item>
+    <item partNum="aaaa">
+        <productName>product2</productName>
+        <quantity>2</quantity>
+        <USPrice>192.95</USPrice>
+        <cargo>
+            <isOpen>true</isOpen>
+        </cargo>
+    </item>
+    <item partNum="aaaa">
+        <productName>product3</productName>
+        <quantity>3</quantity>
+        <USPrice>121.23</USPrice>
+        <cargo>
+            <isOpen>false</isOpen>
+        </cargo>
+    </item>
+</purchaseOrder>

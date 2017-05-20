@@ -1,0 +1,17 @@
+<customer creationDate="2017-05-20">
+    <information>
+        <name>John</name>
+        <surname>Doe</surname>
+        <age>25</age>
+    </information>
+    <information>
+        <name>Jayne</name>
+        <surname>Doe</surname>
+        <age>26</age>
+    </information>
+    <information>
+        <name>Sully</name>
+        <surname>O-Sullivan</surname>
+        <age>33</age>
+    </information>
+</customer>
